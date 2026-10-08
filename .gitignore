@@ -1,0 +1,7 @@
+*.apk
+*.aab
+*.zip
+*.exe
+*.jks
+*.keystore
+.env*
